@@ -52,7 +52,7 @@ Thumbs.db
 # Edit at https://www.toptal.com/developers/gitignore?templates=angular,node,visualstudiocode
 
 # docker "
-/docker/db
+/docker/db/*
 
 ### Angular ###
 ## Angular ##
