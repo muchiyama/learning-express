@@ -51,6 +51,9 @@ Thumbs.db
 # Created by https://www.toptal.com/developers/gitignore/api/angular,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=angular,node,visualstudiocode
 
+# docker "
+/docker/db
+
 ### Angular ###
 ## Angular ##
 # compiled output
