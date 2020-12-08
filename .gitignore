@@ -52,8 +52,8 @@ Thumbs.db
 # Edit at https://www.toptal.com/developers/gitignore?templates=angular,node,visualstudiocode
 
 # docker "
-docker/db/mongo/
-docker/db/npm/
+docker/mongo/
+docker/npm/
 
 ### Angular ###
 ## Angular ##
