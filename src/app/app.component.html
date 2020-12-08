@@ -311,7 +311,7 @@
 </div>
 <div>
   <h1>メッセージ登録</h1>
-  <input type="text" id="registerMessage" input="message" placeholder="登録するメッセージを入力してください。">
+  <input type="text" id="registerMessage" [(ngModel)]="message" placeholder="登録するメッセージを入力してください。">
   <button type="submit" id="registerMessageButton" (click)='registerMessage()'>登録</button>
 </div>
 
